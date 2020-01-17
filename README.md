@@ -1,7 +1,6 @@
-lemon
-=====
+Lemon是一款基于Java开发的开源OA。开源协议Apache 2.0。
 
-[![Build Status](https://travis-ci.org/xuhuisheng/lemon.png)](https://travis-ci.org/xuhuisheng/lemon)
+我们的目标是逐步吸收各种业务需求，最终发展成为能够包含所有功能的工具栈，实现尽量减少编码，只通过配置就完成各种定制需求。
 
 开源OA
 
